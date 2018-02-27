@@ -1,7 +1,7 @@
-var player1 = prompt("Play1: Enter your name, your will be Blue.")
+var player1 = prompt("Player1: Enter your name, your will be Blue.")
 var player1color = 'rgb(30, 144, 255)'
 
-var player2 = prompt("Play2: Enter your name, your will be Red.")
+var player2 = prompt("Player2: Enter your name, your will be Red.")
 var player2color = 'rgb(240, 128, 128)'
 
 var currentPlayer = 0
